@@ -3,6 +3,7 @@ public class Test {
         System.out.println("Hello Git");
         System.out.println("Hello Git");
         System.out.println("branch1");
+        System.out.println("branch1 update");
         
     }
 }
